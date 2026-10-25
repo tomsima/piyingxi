@@ -6,8 +6,7 @@ Piyingxi integrates audio shadowing capabilities with pitch and tone visualisati
 
 <img width="1920" height="1048" alt="piyingxi-screenshot-1" src="https://github.com/user-attachments/assets/16036140-9496-46df-967e-efe8ea17690b" />
 
-
-<img width="1920" height="1048" alt="piyingxi-screenshot" src="https://github.com/user-attachments/assets/3a020d3a-c10b-4b7e-a57a-40f30a1cff8b" />
+[Screencast From 2026-10-25 21-37-09.webm](https://github.com/user-attachments/assets/d6ffd8e0-8751-4576-898e-d416c3c92d67)
 
 ## Features
 
