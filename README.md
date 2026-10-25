@@ -11,8 +11,8 @@ Piyingxi integrates audio shadowing capabilities with pitch and tone visualisati
 - auto-segmentation of audio files for listening and shadowing practice
 - subtitle panel per segment that can be shown or hidden
 - auto and manual recording modes for shadowing audio with accompanying aural and visual feedback
-- spectrogram and algorithmic tone contour visualisation for source and shadowed audio
-- pitch and octave adjustment to align different voice pitches in comparison
+- spectrogram and algorithmic tone contour visualisation for comparison of source and shadowed tone realisation
+- pitch and octave adjustment to align different voice pitches during speaker comparison
 - manual contour draw tool for missed vocal pulses 
 
 ## Installation
