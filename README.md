@@ -6,8 +6,6 @@ Piyingxi integrates audio shadowing capabilities with pitch and tone visualisati
 
 <img width="1920" height="1048" alt="piyingxi-screenshot-1" src="https://github.com/user-attachments/assets/16036140-9496-46df-967e-efe8ea17690b" />
 
-[piyingxi.webm](https://github.com/user-attachments/assets/d6ffd8e0-8751-4576-898e-d416c3c92d67)
-
 ## Features
 
 - auto-segmentation of audio files for listening and shadowing practice
