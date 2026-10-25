@@ -1,4 +1,4 @@
-# Piyingxi shadowing tool
+# Piyingxi spectrogram shadowing tool
 
 Piyingxi (皮影戏) is a specialist shadowing tool for tonal language study. 
 
