@@ -2,7 +2,9 @@
 
 Piyingxi (皮影戏) is a specialist shadowing tool currently in development for tonal language study in the classroom. 
 
-Piyingxi integrates audio shadowing capabilities with pitch and tone visualisation to address the needs of tonal language learners in the classroom and in independent study. It is specifically suited to those studying Chinese languages, allowing visual insight and feedback into the actual tones of each character-associated syllable, rather than an alternative reliance on canonical tone defintions or abstracted phonological tone descriptions. Piyingxi is a useful tool for studying Chinese languages and lesser-documented dialects in particular, for which tone study remains a largely insurmountable barrier for the non-native student, but can also be used for the study of any tonal language.
+Piyingxi integrates audio shadowing capabilities with pitch and tone visualisation to address the needs of tonal language learners in the classroom. Students and instructors can observe visualised tones and make recordings that can be plotted to an overlapping contour line for instant and objective visual and aural feedback.
+
+Piyingxi is specifically designed for the study of Chinese languages, allowing visual insight and feedback into the actual tones of each character-associated syllable, rather than an alternative reliance on canonical tone defintions or abstracted phonological tone descriptions. The aim is to develop a useful tool for studying Chinese languages and lesser-documented dialects in particular, for which tone study remains a largely insurmountable barrier for the non-native student, but can also be used for the study of any tonal language and is intended to be adapted for independent study usage in the near future.
 
 <img width="1920" height="1048" alt="piyingxi-screenshot-1" src="https://github.com/user-attachments/assets/16036140-9496-46df-967e-efe8ea17690b" />
 
