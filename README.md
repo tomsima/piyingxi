@@ -17,10 +17,10 @@ Piyingxi is specifically designed for the study of Chinese languages, allowing v
 - pitch and octave adjustment to align different voice pitches during speaker comparison
 - manual contour draw tool for missed vocal pulses
 
-# Local-only
-This application is specifically designed to be local-only and can function without any internet connection, ensuring that recording data is not sent to a cloud and/or used for AI training purposes. Initial feedback has suggested that students are unlikely to log into a web portal and make their own recordings due to privacy concerns. 
-
 <img width="1920" height="1168" alt="piyingxi-with-spectrogram" src="https://github.com/user-attachments/assets/17a7e3fb-67f4-4aa3-a29f-bf845f49544d" />
+
+## Local-only
+This application is specifically designed to be local-only and can function without any internet connection, ensuring that recording data is not sent to a cloud and/or used for AI training purposes. Initial feedback has suggested that students are unlikely to log into a web portal and make their own recordings due to privacy concerns. 
 
 ## Installation
 
