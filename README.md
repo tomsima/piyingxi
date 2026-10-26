@@ -15,7 +15,9 @@ Piyingxi is specifically designed for the study of Chinese languages, allowing v
 - auto and manual recording modes for shadowing audio with accompanying aural and visual feedback
 - spectrogram and algorithmic tone contour visualisation for comparison of source and shadowed tone realisation
 - pitch and octave adjustment to align different voice pitches during speaker comparison
-- manual contour draw tool for missed vocal pulses 
+- manual contour draw tool for missed vocal pulses
+
+<img width="1920" height="1168" alt="piyingxi-with-spectrogram" src="https://github.com/user-attachments/assets/17a7e3fb-67f4-4aa3-a29f-bf845f49544d" />
 
 ## Installation
 
