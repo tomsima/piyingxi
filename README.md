@@ -1,4 +1,6 @@
-# Piyingxi spectrogram shadowing tool
+<img width="1849" height="626" alt="piyingxi-github" src="https://github.com/user-attachments/assets/503574b2-0e95-4fef-834c-2a6290708e62" />
+
+# Piyingxi tone shadowing tool
 
 Piyingxi (皮影戏) is a specialist shadowing tool currently in development for tonal language study in the classroom. 
 
