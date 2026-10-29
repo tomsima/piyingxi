@@ -1,4 +1,5 @@
-<img width="1849" height="626" alt="piyingxi-github" src="https://github.com/user-attachments/assets/503574b2-0e95-4fef-834c-2a6290708e62" />
+<img width="1174" height="379" alt="piyingxi" src="https://github.com/user-attachments/assets/7adccdf8-34e5-4463-9a6c-7dd1948c10a0" />
+
 
 # Piyingxi tone shadowing tool
 
