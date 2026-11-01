@@ -31,7 +31,7 @@ This application is specifically designed to be local-only and can function with
 
 - Java Development Kit (JDK) 11 or newer (needs `javac`, not just the JRE)
 
-On Debian, Ubuntu, Raspberry Pi OS and ClockworkPi:
+On Debian:
 
 ```bash
 sudo apt update
