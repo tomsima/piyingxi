@@ -27,13 +27,69 @@ This application is specifically designed to be local-only and can function with
 
 ## Installation
 
-Piyingxi is written in Java and is designed to be built from source on a Linux machine with JDK from terminal using:
+### Requirements
 
-cd ~/piyingxi
+- Java Development Kit (JDK) 11 or newer (needs `javac`, not just the JRE)
 
-javac -cp jlayer-1.0.1.4.jar:flatlaf-3.5.4.jar Piyingxi.java
+On Debian, Ubuntu, Raspberry Pi OS and ClockworkPi:
 
+```bash
+sudo apt update
+sudo apt install default-jdk git
+```
+
+### Build and run
+
+```bash
+git clone https://github.com/tomsima/piyingxi.git
+cd piyingxi
+
+# Compile
+javac -cp "jlayer-1.0.1.4.jar:flatlaf-3.5.4.jar" Piyingxi.java
+
+# Run
+java -cp ".:jlayer-1.0.1.4.jar:flatlaf-3.5.4.jar" Piyingxi
+```
+
+### Optional: build a runnable jar
+
+```bash
+cat > manifest.txt << 'EOF'
+Main-Class: Piyingxi
+Class-Path: jlayer-1.0.1.4.jar flatlaf-3.5.4.jar
+
+EOF
 jar cfm piyingxi.jar manifest.txt *.class
+java -jar piyingxi.jar
+```
+
+Notes:
+- The manifest must end with a blank line.
+- Keep `piyingxi.jar`, `jlayer-1.0.1.4.jar` and `flatlaf-3.5.4.jar` in the same folder.
+
+### Troubleshooting
+
+**`package com.formdev.flatlaf does not exist` or `package javazoom.jl.decoder does not exist`**
+The compiler can't see the library jars. Make sure you are in the `piyingxi` folder and that both jars exist and are not empty:
+
+```bash
+ls -l *.jar
+```
+
+If either is missing, download it:
+
+```bash
+wget https://repo1.maven.org/maven2/com/formdev/flatlaf/3.5.4/flatlaf-3.5.4.jar
+wget https://repo1.maven.org/maven2/javazoom/jlayer/1.0.1/jlayer-1.0.1.jar
+```
+
+The Maven jlayer file is named `jlayer-1.0.1.jar`, so adjust the filename in the commands above if you use it.
+
+**`javac: command not found`**
+Only the JRE is installed. Install the JDK: `sudo apt install default-jdk`.
+
+**`FileNotFoundException: manifest.txt`**
+Create the manifest first (see "build a runnable jar" above).
 
 ## Project background
 
