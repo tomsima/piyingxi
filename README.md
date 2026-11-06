@@ -1,13 +1,13 @@
 <img width="1174" height="379" alt="piyingxi" src="https://github.com/user-attachments/assets/7adccdf8-34e5-4463-9a6c-7dd1948c10a0" />
 
 
-# Piyingxi tone shadowing tool
+# p-ingxi tone shadowing tool
 
-Piyingxi (皮影戏) is a specialist shadowing tool currently in development for tonal language study in the classroom. 
+p-ingxi (皮影戏) is a specialist shadowing tool currently in development for tonal language study in the classroom. 
 
-Piyingxi integrates audio shadowing capabilities with pitch and tone visualisation to address the needs of tonal language learners in the classroom. Students and instructors can observe visualised tones and make recordings that can be plotted to an overlapping contour line for instant and objective visual and aural feedback.
+p-ingxi integrates audio shadowing capabilities with pitch and tone visualisation to address the needs of tonal language learners in the classroom. Students and instructors can observe visualised tones and make recordings that can be plotted to an overlapping contour line for instant and objective visual and aural feedback.
 
-Piyingxi is specifically designed for the study of Chinese languages, allowing visual insight and feedback into the actual tones of each character-associated syllable, rather than an alternative reliance on canonical tone defintions or abstracted phonological tone descriptions. The aim is to develop a useful tool for studying Chinese languages and lesser-documented dialects in particular, for which tone study remains a largely insurmountable barrier for the non-native student, but can also be used for the study of any tonal language and is intended to be adapted for independent study usage in the near future.
+p-ingxi is specifically designed for the study of Chinese languages, allowing visual insight and feedback into the actual tones of each character-associated syllable, rather than an alternative reliance on canonical tone defintions or abstracted phonological tone descriptions. The aim is to develop a useful tool for studying Chinese languages and lesser-documented dialects in particular, for which tone study remains a largely insurmountable barrier for the non-native student, but can also be used for the study of any tonal language and is intended to be adapted for independent study usage in the near future.
 
 <img width="1920" height="1048" alt="piyingxi-screenshot-1" src="https://github.com/user-attachments/assets/16036140-9496-46df-967e-efe8ea17690b" />
 
@@ -65,4 +65,4 @@ java -jar piyingxi.jar
 
 ## Project background
 
-This project was born out of a need for a shadowing tool for Chinese language learners, one that specifically allows for spectral analysis of tone within the shadowing environment. The Windows and Android-only software WorkAudioBook was the original inspiration for this project, as it is no longer supported on newer machines, and in the development of Piyingxi the opportunity was taken to address the unique needs of the tonal language learner who adopts the shadowing technique for their pronunciation practice.    
+This project was born out of a need for a shadowing tool for Chinese language learners, one that specifically allows for spectral analysis of tone within the shadowing environment. The Windows and Android-only software WorkAudioBook was the original inspiration for this project, as it is no longer supported on newer machines, and in the development of p-ingxi the opportunity was taken to address the unique needs of the tonal language learner who adopts the shadowing technique for their pronunciation practice.    
