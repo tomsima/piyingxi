@@ -8,7 +8,10 @@ piyingxi integrates audio shadowing capabilities with pitch and tone visualisati
 
 piyingxi is specifically designed for the study of Chinese languages, allowing visual insight and feedback into the actual tones of each character-associated syllable, rather than an alternative reliance on canonical tone defintions or abstracted phonological tone descriptions. The aim is to develop a useful tool for studying Chinese languages and lesser-documented dialects in particular, for which tone study remains a largely insurmountable barrier for the non-native student, but can also be used for the study of any tonal language and is intended to be adapted for independent study usage in the near future.
 
+The latest alpha of piyingxi integrates a basic version of the qTA model (quantitative Target Approximation, see Xu, Y. & Prom-on, S. (2010-present year). qTAtrainer.praat. Available from: http://www.homepages.ucl.ac.uk/~uclyyix/qTAtrainer/) for synthetic tone contour generation. This can be very helpful for seeing how stress and focus manipulate overall sentence-level tone contour:
+
 <img width="1646" height="748" alt="Screenshot From 2026-11-17 14-15-45" src="https://github.com/user-attachments/assets/f123829a-926f-48d2-997c-60e4b057bcf5" />
+
 
 ## Features
 
@@ -17,12 +20,10 @@ piyingxi is specifically designed for the study of Chinese languages, allowing v
 - auto and manual recording modes for shadowing audio with accompanying aural and visual feedback
 - spectrogram and algorithmic tone contour visualisation for comparison of source and shadowed tone realisation
 - pitch and octave adjustment to align different voice pitches during speaker comparison
-- manual contour draw tool for missed vocal pulses
+- manual contour draw tool for missed vocal pulses and octave shift bar for easy octave correction
+- initial integration of the qTA model
 
 <img width="1646" height="748" alt="Screenshot From 2026-11-17 14-16-33" src="https://github.com/user-attachments/assets/eabda26e-00d2-4f7a-928d-07e11faa9c1f" />
-
-## Local-only
-This application is specifically designed to be local-only and can function without any internet connection, ensuring that recording data is not sent to a cloud and/or used for AI training purposes. Initial feedback has suggested that students are unlikely to log into a web portal and make their own recordings due to privacy concerns. 
 
 ## Installation
 
