@@ -11,7 +11,7 @@ piyingxi is specifically designed for the study of Chinese languages, allowing v
 The latest alpha of piyingxi integrates a basic version of the qTA model (quantitative Target Approximation, see Xu, Y. & Prom-on, S. (2010-present year). qTAtrainer.praat. Available from: http://www.homepages.ucl.ac.uk/~uclyyix/qTAtrainer/) for synthetic tone contour generation. This can be very helpful for seeing how stress and focus manipulate overall sentence-level tone contour:
 
 <img width="1646" height="748" alt="Screenshot From 2026-11-17 14-15-45" src="https://github.com/user-attachments/assets/f123829a-926f-48d2-997c-60e4b057bcf5" />
-_Blue line shows tone contour drawn from spectrogram analysis of audio, orange-dotted line shows synthetic contour using the Target Approximation model._
+*Blue line shows tone contour drawn from spectrogram analysis of audio, orange-dotted line shows synthetic contour using the Target Approximation model.*
 
 ## Features
 
@@ -24,7 +24,7 @@ _Blue line shows tone contour drawn from spectrogram analysis of audio, orange-d
 - initial integration of the qTA model
 
 <img width="1646" height="748" alt="Screenshot From 2026-11-17 14-16-33" src="https://github.com/user-attachments/assets/eabda26e-00d2-4f7a-928d-07e11faa9c1f" />
-_Toggled visibility of the phonetic analysis window for focused audio shadowing sessions. Subtitles can also be toggled on/off for further focus. Piyingxi also has a built in shadowing session timer (top left)._
+*Toggled visibility of the phonetic analysis window for focused audio shadowing sessions. Subtitles can also be toggled on/off for further focus. Piyingxi also has a built in shadowing session timer (top left).*
 
 ## Installation
 
