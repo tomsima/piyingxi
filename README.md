@@ -2,7 +2,7 @@
 
 # piyingxi audio shadowing tool
 
-piyingxi (譬影戏) is a specialist language shadowing tool currently in development for tonal language study in the classroom. 
+piyingxi (皮影戏) is a specialist language shadowing tool currently in development for tonal language study in the classroom. 
 
 piyingxi integrates audio shadowing capabilities with pitch and tone visualisation to address the needs of tonal language learners in the classroom. Students and instructors can observe visualised tones and make recordings that can be plotted to an overlapping contour line for instant and objective visual and aural feedback.
 
